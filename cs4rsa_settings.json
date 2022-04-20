@@ -1,0 +1,19 @@
+{
+    "system": {
+        "saveChoicedSubject": true,
+        "autoImportSubjectFile": true
+    },
+    "appearance": {
+        "darkMode": true
+    },
+    "itemListWidget": {
+        "showInfoWhenHover": true,
+        "showTeacherNameBySide": true
+    },
+    "itemConflictListWidget": {
+        "showDayConflict": true
+    },
+    "buttonWeekContainer": {
+        "highlightConflictWeekButton": true
+    }
+}
