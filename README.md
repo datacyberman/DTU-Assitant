@@ -19,8 +19,5 @@ Mọi sự đóng góp đều được khuyến khích.
 Cảm ơn những người có đóng góp vào repo này.
 Ngoài những thành viên sáng lập của Start-up Sống Vì Donate cùng với đó là các cột mốc quan trọng 14:30, 19:32, 21:59, căn phòng chừng 8 mét vuông và con mèo đen tên Tôm.
 ## Giấy phép
-Tất cả file code trong kho này đều theo giấy phép MIT.
-
-5I0wlij |)35tr0ij fr0m In5id3 !!! We R 4nti|)tuCl4n
 
 ** Chúng tôi thề là chẳng biết gì đến DTU hết. Nếu tôi nói dối hai đầu gối tôi bằng nhau.
