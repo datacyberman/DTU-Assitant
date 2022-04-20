@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://github.com/lucid-irl/DTU-Universe/blob/main/Images/logo.png" width=150px/></div>
 
-## Từ một ý tưởng đơn giản vãi loz
+## Từ một ý tưởng đơn giản 
 App này được hình thành từ một ý tưởng sơ khai nhất là lấy lịch học trên trang Course của DTU và lịch thi trên
 phòng đào tạo DTU. Ứng dụng được viết bằng Python, giao diện được dựng trên PyQt5.
 ## Đến một cái đồ án với nhiều chức năng thật sự...kinh hãi
