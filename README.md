@@ -1,6 +1,5 @@
 <div align="center">
     <h1>Ứng dụng siêu cấp vũ trụ DTU</h1>
-    <h1>Được push chính thức lên github ngày 20/04/2022</h1>
 </div>
 
 <div align="center"><img src="https://github.com/lucid-irl/DTU-Universe/blob/main/Images/logo.png" width=150px/></div>
