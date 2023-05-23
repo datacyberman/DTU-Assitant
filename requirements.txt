@@ -1,6 +1,6 @@
 beautifulsoup4==4.9.3
 PyQt5==5.15.1
-requests==2.24.0
+requests==2.31.0
 win10toast==0.9
 browser-cookie3==0.11.4
 python-firebase==1.2
